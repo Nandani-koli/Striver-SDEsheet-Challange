@@ -8,3 +8,4 @@ SDE-Sheet :- https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-i
 | Date | Days | Topics |         
 |-------|--------|---------| 
 | 6 June|[Day-1](./Day-1)| Array|
+| 7 June|[Day-2](./Day-2)| Array|
