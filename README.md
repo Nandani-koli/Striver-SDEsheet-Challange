@@ -5,6 +5,6 @@ For more details :- https://takeuforward.org/uncategorized/strivers-sde-sheet-ch
 <br>
 SDE-Sheet :- https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
 <br><br>
-| Days | Topics |         
-|---------------|---------| 
-|[Day-1](./Day-1)| Array|
+| Date | Days | Topics |         
+|-------|--------|---------| 
+| 6 June|[Day-1](./Day-1)| Array|
