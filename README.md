@@ -15,3 +15,4 @@ SDE-Sheet :- https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-i
 | 11 June | [Day-6](./Day-6)| Array|
 | 12 June | [Day-7](./Day-7)| Array|
 | 13 June | [Day-8](./Day-8)| Array|
+| 14 June | [Day-9](./Day-9)| Linked List|
