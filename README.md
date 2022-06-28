@@ -21,4 +21,4 @@ SDE-Sheet :- https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-i
 | 17 June | [Day-12](./Day-12)| Linked List|
 | 18 June | [Day-13](./Day-13)| Linked List|
 | 22 June | [Day-14](./Day-14)| Linked List|
-| 28 June | [Day-15](./Day-15)| Linked List|
+| 28 June | [Day-15](./Day-15)|Greedy-Algo, Array|
