@@ -25,3 +25,4 @@ SDE-Sheet :- https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-i
 | 29 June | [Day-16](./Day-16)|Greedy-Algo |
 | 30 June | [Day-17](./Day-17)| Stack & Queue |
 | 1 July | [Day-18](./Day-18)| Stack & Queue |
+| 2 July | [Day-19](./Day-19)| Graph |
