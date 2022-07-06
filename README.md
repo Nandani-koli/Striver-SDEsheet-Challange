@@ -28,3 +28,5 @@ SDE-Sheet :- https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-i
 | 2 July | [Day-19](./Day-19)| Graph |
 | 3 July | [Day-20](./Day-20)| Graph |
 | 4 July | [Day-21](./Day-21)| Graph & Binary Search |
+| 5 July | [Day-22](./Day-22)| Binary Search |
+| 6 July | [Day-23](./Day-23)| Heap & Binary Search |
