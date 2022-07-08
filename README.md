@@ -31,4 +31,3 @@ SDE-Sheet :- https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-i
 | 5 July | [Day-22](./Day-22)| Binary Search |
 | 6 July | [Day-23](./Day-23)| Heap & Binary Search |
 | 7 July | [Day-24](./Day-24)| Array |
-| 7 July | [Day-24](./Day-24)| Array |
