@@ -1,7 +1,9 @@
 /*
 You have been given a Binary Tree of 'N' nodes, where the nodes have integer values. Your task is to find the ln-Order, Pre-Order, and Post-Order traversals of the given binary tree.
 
-find preorder,inorder and postorder in single traverse
+find preorder,inorder and postorder in single traverse 
+TC:- O(n)
+Sc-> O(n)
 */
 
 #include <bits/stdc++.h>
