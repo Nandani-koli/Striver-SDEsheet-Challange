@@ -32,3 +32,7 @@ SDE-Sheet :- https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-i
 | 6 July | [Day-23](./Day-23)| Heap & Binary Search |
 | 7 July | [Day-24](./Day-24)| Array |
 | 9 July | [Day-25](./Day-25)| LinkedList & Binary Tree |
+| 10 July | [Day-26](./Day-26)| Binary Tree |
+| 11 July | [Day-27](./Day-27)| Binary Tree |
+| 12 July | [Day-28](./Day-28)| Binary Tree |
+| 13 July | [Day-29](./Day-29)| Binary Search Tree |
