@@ -40,3 +40,4 @@ SDE-Sheet :- https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-i
 | 15 July | [Day-31](./Day-31)| Binary Search Tree & BT |
 | 16 July | [Day-32](./Day-32)| Binary Search Tree & BT |
 | 17 July | [Day-33](./Day-33)| Binary Search Tree & BT |
+| 17 July | [Day-33](./Day-33)| Miscellaneous |
