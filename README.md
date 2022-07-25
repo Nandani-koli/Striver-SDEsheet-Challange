@@ -46,3 +46,5 @@ SDE-Sheet :- https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-i
 | 21 July | [Day-37](./Day-37)| Recursion |
 | 22 July | [Day-38](./Day-38)| Recursion && Backtracking |
 | 23 July | [Day-39](./Day-39)| Miscellaneous |
+| 24 July | [Day-40](./Day-40)| Stack |
+| 25 July | [Day-41](./Day-41)| Stack |
