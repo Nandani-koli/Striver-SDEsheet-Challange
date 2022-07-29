@@ -49,3 +49,6 @@ SDE-Sheet :- https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-i
 | 24 July | [Day-40](./Day-40)| Stack |
 | 25 July | [Day-41](./Day-41)| Stack |
 | 26 July | [Day-42](./Day-42)| String |
+| 27 July | [Day-43](./Day-43)| String |
+| 28 July | [Day-44](./Day-44)| DP |
+| 29 July | [Day-45](./Day-45)| DP |
